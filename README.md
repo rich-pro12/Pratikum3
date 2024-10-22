@@ -72,7 +72,7 @@ Fungsi: Mencetak bilangan terbesar yang ditemukan setelah perulangan berakhir.
 Tujuan: Memberi tahu pengguna hasil akhir yaitu bilangan terbesar yang telah mereka masukkan.
 
 # Flowchart
-![foto1]( )
+![foto1](https://github.com/rich-pro12/foto1/blob/main/Screenshot%202024-10-22%20214133.png?raw=true)
 
 
 
